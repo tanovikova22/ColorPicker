@@ -24,4 +24,5 @@ yarn start
 ```bash
 node v12.13.1
 npm v6.14.8 
+yarn v1.22.7
 ```

@@ -6,15 +6,15 @@ React project for picking colors
 
 ## Getting Started
 
-1.Clone the repository to your local machine: 
+1. Clone the repository to your local machine: 
 ```bash
 git clone https://github.com/tanovikova22/ColorPicker.git
 ```
-2.Install dependencies
+2. Install dependencies
 ```bash
 yarn install
 ```
-3.Run the code: 
+3. Run the code: 
 ```bash
 yarn start
 ```

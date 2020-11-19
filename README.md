@@ -23,5 +23,5 @@ yarn start
 
 ```bash
 node v12.13.1
-npm 6.14.8 
+npm v6.14.8 
 ```
